@@ -1,0 +1,1 @@
+The current project I am working on is to deconstruct and rebuild a existing google homepage. This project is practice using all the new skills acquired so far during this course.  
